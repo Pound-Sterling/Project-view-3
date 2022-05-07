@@ -727,6 +727,7 @@ img{
     height: 233px;
     margin: 0 auto;
     padding: 0 70px;
+    border-radius: 10px;
 }
 .subscribe::before{
     content: '';
