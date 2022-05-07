@@ -126,6 +126,7 @@ img{
     left: calc(100% + 40.76px);
 
     width: 42.447vw;    
+    max-width: 611.24px;
 }
 .hero__image img{
     width: 100%;
@@ -272,6 +273,7 @@ img{
     bottom: 4.46px;
 
     width: 35.286vw;
+    max-width: 508.12px;
 }
 .features__image img{
     width: 100%;
@@ -501,7 +503,6 @@ img{
     color: #4F5665;
 }
 .map__image{
-    width: 73.611vw;
     margin: 155.81px auto 35.81px;
 }
 .map__image img{
