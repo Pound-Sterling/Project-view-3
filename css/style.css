@@ -723,8 +723,10 @@ img{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0 70px;
+    max-width: 1110px;
     height: 233px;
+    margin: 0 auto;
+    padding: 0 70px;
 }
 .subscribe::before{
     content: '';
