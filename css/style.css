@@ -528,7 +528,6 @@ img{
 }
 
 
-.testimonials{}
 .testimonials__text{
     width: 555px;
     margin: 0 auto;
@@ -562,6 +561,7 @@ img{
 .testimonials__list .slick-track{
     display: flex;
 }
+
 .testimonials__list .slick-arrow{
     position: absolute;
     bottom: -22.5px;
@@ -575,7 +575,6 @@ img{
     font-size: 0;
     transition: all .3s ease-in-out;
 }
-
 .testimonials__list .slick-arrow.slick-prev{
     right: calc(150px + 80px);
 }
@@ -671,7 +670,6 @@ img{
 .testimonials__item-logo{
     margin-right: 20px;
 }
-.testimonials__item-info{}
 .testimonials__item-name{
     font-family: var(--Rubik-Medium);
     font-size: 18px;
@@ -709,7 +707,6 @@ img{
 
     color: #0B132A;
 }
-.rate__star{}
 
 
 .subscribe{
@@ -809,7 +806,7 @@ img{
 .footer__info{
     width: 340px;
 }
-.footer__logo{}
+
 .footer__subtitle{
     margin: 20px 0 30px;
     font-family: var(--Rubik-Regular);
